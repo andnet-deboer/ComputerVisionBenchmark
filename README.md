@@ -25,13 +25,6 @@ Computer vision has become a critical area of artificial intelligence due to its
 
 # 
 
-# 
-
-# 
-
-# 
-
-# 
 
 # **Planned Analysis**
 
