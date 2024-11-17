@@ -1,7 +1,7 @@
 # Math 395-Project-Final
 **Project Overview**
 
-In this project, we aim to develop and compare several machine learning models to classify images.. The models will be trained to recognize and categorize distinct features within an image. By leveraging computer vision techniques, the model will learn to extract relevant visual features from the images to make accurate predictions about their classes. A comparison of each technique's performance will be conducted and the nuances of each technique will be analyzed in a final report.
+In this project, we aim to develop and compare several machine learning models to classify images. The models will be trained to recognize and categorize distinct features within an image. By leveraging computer vision techniques, the model will learn to extract relevant visual features from the images to make accurate predictions about their classes. A comparison of each technique's performance will be conducted and the nuances of each technique will be analyzed in a final report.
 
 ### **Why is this Interesting or Important?**
 
