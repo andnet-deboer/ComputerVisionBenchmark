@@ -37,7 +37,7 @@ This project seeks to investigate the performance of CNN, KNN, and Logistic regr
 2. *Developing the Model*  
    1. Convolutional Neural Networks  
    2. K Nearest Neighbors  
-   3. Logistic Regression  
+   3. Multit-Class Logistic Regression  
 3. *Evaluating*   
    1. Percent Error  
    2. Precision  
