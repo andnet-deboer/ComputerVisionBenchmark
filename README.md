@@ -19,9 +19,9 @@ Computer vision has become a critical area of artificial intelligence due to its
 * [CIFAR-10](https://www.cs.toronto.edu/%7Ekriz/cifar.html): Contains 60000 32x32 color images with 10 classes and each class with 6000 images   
 * [CIFAR-100](https://www.cs.toronto.edu/%7Ekriz/cifar.html): Contains 600 images for each class with a 100 classes   
 * **Variables and Features**  
-* Labels: *airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck*  
-* Histogram of Oriented Gradients  
-* Quality of Edges using MSE and Structural Similarity
+  * Labels: *airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck*  
+  * Histogram of Oriented Gradients  
+  * Quality of Edges using MSE and Structural Similarity
 
 # 
 
