@@ -1,7 +1,7 @@
 # Math 395-Project-Final
 **Project Overview**
 
-In this project, we aim to develop and compare several machine learning models to classify images.. The models will be trained to recognize and categorize distinct features within an image. By leveraging computer vision techniques, the model will learn to extract relevant visual features from the images to make accurate predictions about their classes. A comparison of each technique's performance will be conducted and the nuances of each technique will be analyzed in a final report.
+In this project, we aim to develop and compare several machine learning models to classify images. The models will be trained to recognize and categorize distinct features within an image. By leveraging computer vision techniques, the model will learn to extract relevant visual features from the images to make accurate predictions about their classes. A comparison of each technique's performance will be conducted and the nuances of each technique will be analyzed in a final report.
 
 ### **Why is this Interesting or Important?**
 
@@ -19,9 +19,9 @@ Computer vision has become a critical area of artificial intelligence due to its
 * [CIFAR-10](https://www.cs.toronto.edu/%7Ekriz/cifar.html): Contains 60000 32x32 color images with 10 classes and each class with 6000 images   
 * [CIFAR-100](https://www.cs.toronto.edu/%7Ekriz/cifar.html): Contains 600 images for each class with a 100 classes   
 * **Variables and Features**  
-* Labels: *airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck*  
-* Histogram of Oriented Gradients  
-* Quality of Edges using MSE and Structural Similarity
+  * Labels: *airplane, automobile, bird, cat, deer, dog, frog, horse, ship and truck*  
+  * Histogram of Oriented Gradients  
+  * Quality of Edges using MSE and Structural Similarity
 
 # 
 
@@ -37,7 +37,7 @@ This project seeks to investigate the performance of CNN, KNN, and Logistic regr
 2. *Developing the Model*  
    1. Convolutional Neural Networks  
    2. K Nearest Neighbors  
-   3. Logistic Regression  
+   3. Multit-Class Logistic Regression  
 3. *Evaluating*   
    1. Percent Error  
    2. Precision  
