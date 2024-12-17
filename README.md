@@ -1,6 +1,5 @@
 # Math 395-Project-Final
-[Project Report PDF]([Computer_Vision_Math_395.pdf](https://github.com/user-attachments/files/18170661/Computer_Vision_Math_395.pdf)
-)
+[Project Report PDF](https://github.com/user-attachments/files/18170661/Computer_Vision_Math_395.pdf)
 
 ### Project Overview
 
