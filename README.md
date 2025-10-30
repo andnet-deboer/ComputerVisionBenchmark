@@ -1,4 +1,4 @@
-# Math 395-Project-Final
+# Computer Vision Classification Methods for Large Datasets
 [Project Report PDF](https://github.com/user-attachments/files/18170698/Computer_Vision_Math_395.pdf)
 
 ### Project Overview
