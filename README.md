@@ -1,5 +1,3 @@
-# Classification Methods for Large Datasets
-
 <img width="816" height="379" alt="image" src="https://github.com/user-attachments/assets/258f0c50-4bbd-49ad-9861-35232d36ca64" />
 
 [Project Report PDF](https://github.com/user-attachments/files/18170698/Computer_Vision_Math_395.pdf)
